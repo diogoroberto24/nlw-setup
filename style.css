@@ -45,6 +45,7 @@ button {
   flex-direction: column;
   gap: 24px;
   margin-top: 58px;
+  background-color: #09090a;
 }
 
 .habit {
